@@ -1,11 +1,11 @@
-##Manual de Usuario: Sistema de Gestión para Academia Melodía
+### Manual de Usuario: Sistema de Gestión para Academia Melodía
 
-#Descripción General
+## Descripción General
 Este es un sistema de gestión integral para una academia de música, diseñado para administrar personas, instrumentos, clases y eventos musicales. Es un software basado en consola que organiza y facilita las tareas de gestión en la academia de manera eficiente.
 
-##Cómo Usar el Sistema
+## Cómo Usar el Sistema
 
-#Menú Principal
+# Menú Principal
 Al iniciar el sistema, se presenta un menú principal que permite al usuario seleccionar diferentes opciones según sus necesidades.
 Opciones disponibles:
 
@@ -96,6 +96,7 @@ Paso 3: Ejecutar el Sistema en un IDE
 - En Eclipse: Haga clic derecho sobre el archivo Main.java y seleccione Run As > Java Application.
 
 Paso 4: Ejecutar el Sistema desde la Línea de Comandos
+
 - Abra la terminal o consola de comandos.
 - Navegue hasta la carpeta donde descomprimió el archivo usando el comando cd.
 - Compile las clases con el comando:
