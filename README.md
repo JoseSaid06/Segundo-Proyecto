@@ -1,11 +1,11 @@
-### Manual de Usuario: Sistema de Gestión para Academia Melodía
+# Manual de Usuario: Sistema de Gestión para Academia Melodía
 
 ## Descripción General
 Este es un sistema de gestión integral para una academia de música, diseñado para administrar personas, instrumentos, clases y eventos musicales. Es un software basado en consola que organiza y facilita las tareas de gestión en la academia de manera eficiente.
 
-## Cómo Usar el Sistema
+# Cómo Usar el Sistema
 
-# Menú Principal
+## Menú Principal
 Al iniciar el sistema, se presenta un menú principal que permite al usuario seleccionar diferentes opciones según sus necesidades.
 Opciones disponibles:
 
@@ -16,7 +16,7 @@ Opciones disponibles:
 - Salir del Sistema
 Para seleccionar una opción, simplemente ingrese el número correspondiente y presione Enter.
 
-#Funcionalidades Principales
+## Funcionalidades Principales
 1. Gestión de Personas
 Opciones disponibles:
 
@@ -51,7 +51,7 @@ Opciones disponibles:
 - Listar Recitales: Muestra los recitales programados junto con sus participantes.
 - Eliminar Recitales: Elimina recitales programados que ya no se realizarán.
 
-#Consejos para Evitar Errores
+## Consejos para Evitar Errores
 
 - Siempre ingrese datos completos y precisos.
 - Respete los formatos de entrada (por ejemplo, fechas: DD/MM/AAAA y horas: HH:MM).
@@ -59,7 +59,7 @@ Opciones disponibles:
 - Preste atención al seleccionar las opciones del menú para evitar elegir una incorrecta.
 - Use números enteros para seleccionar opciones en el menú principal.
 
-#Errores Comunes a Evitar
+## Errores Comunes a Evitar
 
 - Ingresar datos en un formato incorrecto.
 - Por ejemplo, usar fechas como "12-31-2024" en lugar de "31/12/2024".
@@ -68,7 +68,7 @@ Opciones disponibles:
 - Modificar datos sin verificarlos previamente, lo que puede causar inconsistencias.
 - Salir del sistema abruptamente sin guardar los cambios realizados.
 
-#Cómo Ejecutar el Sistema
+## Cómo Ejecutar el Sistema
 
 Paso 1: Descomprimir el Archivo ZIP
 
